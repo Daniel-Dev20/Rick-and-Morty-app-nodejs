@@ -1,4 +1,4 @@
-## Aplicación de rick and morty 
+## Aplicación de Rick and Morty 
 
 Esta es una aplicación con comandos para ingresar un id desde el 1 hasta cierto numero de id y devuelve un personaje por dicho id
 
